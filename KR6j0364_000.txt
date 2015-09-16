@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 聖虛空藏菩薩陀羅尼經
+#+DATE: 2015-08-30 20:31:00.908953
+#+PROPERTY: JUAN 0
