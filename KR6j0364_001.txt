@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:00.717107
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:58
 #+TITLE: 聖虛空藏菩薩陀羅尼經
 #+PROPERTY: CBETA_ID T20n1147
 #+PROPERTY: ID KR6j0364
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1147
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0364_T_000-0604c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0364_T_001-0604c> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1147[Nos.1333,1334]¶
-
- 聖虛空藏菩薩陀羅尼經¶
+No. 1147 [Nos. 1333, 1334]¶
+聖虛空藏菩薩陀羅尼經¶
 ¶
 西天中印度摩伽陀國那爛陀寺¶
 三藏傳教大師賜紫沙門臣¶
